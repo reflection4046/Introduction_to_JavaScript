@@ -22,8 +22,8 @@
  address
  address
  ADDRESS 
-addRess 
-ADDress 
+ addRess 
+ ADDress 
 
 
 // 6. how to write  a long  variable  name
