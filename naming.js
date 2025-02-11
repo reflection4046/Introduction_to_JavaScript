@@ -1,15 +1,15 @@
 //1 .no keyword in variable name 
- var false = 45;
- var var = 50;
+ var myFalse = 45;
+ var myVar = 50;
 
  //2. no space or gap in variable name
 
- var is happy = false;
+ var isHappy = false;
  var is_happy = true;
 
  //3. no quote
 
- var "address" = " narayangonje ";
+ var address = " narayangonje ";
 
  //4.no can not start with a number but number orher then the first  letter is allowed
 
@@ -28,7 +28,7 @@
 
 // 6. how to write  a long  variable  name
 
-var my current home address = "Cumilla";
+var myCurrentHomeAddress = "Cumilla";
 var mycurrenthomeaddress = "cumilla";
 var my_current_home_address = "Cumilla"; // snake case
 var myCurrentHomeAddress = "cumilla"; // camel case
